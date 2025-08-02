@@ -26,7 +26,7 @@ export default function Hero() {
             <div className='flex justify-center relative my-20 z-10'>
                 <div className='max-w-[89vw] md:max-w-2xl lg:max-w-[60v] flex flex-col items-center justify-center'>
                     <h1 className='uppercase tracking-widest text-xs text-center text-blue-100 max-w-80'>Dynamic Web Magic With Nextjs</h1>
-                    <TextGenerateEffect className='text-center text-[40px] md:text-3xl lg:text-6xl' words='Transforing Concepts into Seamless Experiences' />
+                    <TextGenerateEffect className='text-center text-[40px] md:text-3xl lg:text-6xl' words='Transforing Concepts into Seamless User Experiences' />
                     <p className='text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl'>Hi, I&apos;m Rahul, Full Stack Developer based in Bengaluru</p>
                     <a href="#about">
                         <MagicButton
